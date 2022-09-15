@@ -1,0 +1,23 @@
+p{
+    color:aqua;
+}
+h3{
+    font-style: oblique;
+    color:pink;
+}
+h3{
+    font-style: italic;
+    color: greenyellow;
+}
+.fc{
+    color: blueviolet;
+}
+.sc{
+    color: red;
+}
+.tc{
+    color: brown;
+}
+li{
+    color: green;
+}
